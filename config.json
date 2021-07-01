@@ -1,0 +1,8 @@
+{
+    "directories": {
+        "appDir": "apps",
+        "logDr": "logs",
+        "logDir": "logs",
+        "instanceDir": "instances"
+    }
+}
